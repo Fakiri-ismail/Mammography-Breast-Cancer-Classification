@@ -1,13 +1,14 @@
-# Mammography-Breast-Cancer-Classification
+# Mammography Breast Cancer Classification
 
 ## Data Source
 
 Data Source 1 : [The mini-MIAS database of mammograms](http://peipa.essex.ac.uk/pix/mias/) !
+
 Data Source 2 : [The Cancer Imaging Archive (TCIA)](https://www.cancerimagingarchive.net/nbia-search/) !
 
 ## Training
 
-<img src="Training.png" alt="Training">
+<img src="Training.png" alt="Training" width="800" height="400">
 
 ## Accuracy
 
